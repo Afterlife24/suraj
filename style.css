@@ -2,7 +2,7 @@
 
 /* Base */
 :root {
-    --clr-primary: #fe5722;
+    --clr-primary: #febc22;
     --clr-secondary: #272d36;
 }
 
@@ -20,7 +20,7 @@ html {
 }
 
 body {
-    background: #fff;
+    background: #f7e1e1;
     color: var(--clr-secondary);
     overflow-x: hidden;
 }
