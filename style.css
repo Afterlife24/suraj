@@ -143,9 +143,10 @@ nav ul li a {
 }
 
 .visual img {
-  width: 80%;
-  height: auto;
+  width: 70%;
+  height: 70%;
   display: block;
+  margin-right: 40px;
 }
 
 #hero-section .text {
